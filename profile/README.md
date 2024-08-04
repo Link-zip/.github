@@ -1,6 +1,6 @@
-<img width="70%" src="https://github.com/user-attachments/assets/6daedb8f-0dcd-48c2-8e4a-122d9c952561" />
-<img width="70%" src="https://github.com/user-attachments/assets/ca7ac30e-ae24-40ec-92bd-c1ae8bb06e7b" />
-<img width="70%" src="https://github.com/user-attachments/assets/9ae8f9bb-f5c4-4d36-9a38-d6b94cb130e3" />
+<img width="100%" src="https://github.com/user-attachments/assets/6daedb8f-0dcd-48c2-8e4a-122d9c952561" />
+<img width="100%" src="https://github.com/user-attachments/assets/ca7ac30e-ae24-40ec-92bd-c1ae8bb06e7b" />
+<img width="100%" src="https://github.com/user-attachments/assets/9ae8f9bb-f5c4-4d36-9a38-d6b94cb130e3" />
 
 ## 팀원 소개
 <table border=1>
